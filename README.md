@@ -17,6 +17,16 @@ Prairie Energy Operations Ltd. (PEO) operates production, processing, and fleet 
   - **Executive Summary** — KPI cards, a multi-year emissions trend, a Scope/CCS/Reductions breakdown, and a gauge tracking real-time progress toward the 30% intensity-reduction commitment.
   - **Carbon Performance Analysis** — emissions by source, facility, and asset type, a detailed drill-through table, and year/scope/province filtering.
 
+## Dashboard
+
+**Executive Summary**
+
+![Executive Summary dashboard page](screenshots/executive-summary.png)
+
+**Carbon Performance Analysis**
+
+![Carbon Performance Analysis dashboard page](screenshots/carbon-performance-analysis.png)
+
 ## Key findings
 
 - Net emissions (~41,000 tCO2e) sit comfortably under the 100,000-tonne OBPS regulatory reporting threshold.
@@ -30,6 +40,7 @@ Prairie Energy Operations Ltd. (PEO) operates production, processing, and fleet 
 ├── Prairie Energy Oppoerations Ltd.pbix    # Power BI dashboard (data model, measures, visuals)
 ├── ENVS019_PEO_Data.xlsx                   # Raw source data
 ├── Executive summary Insights.pptx         # Executive Insights Report deck
+├── screenshots/                            # Dashboard page screenshots (shown above)
 └── README.md
 ```
 
