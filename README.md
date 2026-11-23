@@ -4,16 +4,6 @@
 
 An interactive Power BI dashboard and analytics pipeline for tracking greenhouse gas emissions, carbon offsets, and progress toward an emissions-intensity reduction target at a multi-province energy operator.
 
-## Dashboard
-
-**Executive Summary**
-
-![Executive Summary dashboard page](screenshots/executive-summary.png)
-
-**Carbon Performance Analysis**
-
-![Carbon Performance Analysis dashboard page](screenshots/carbon-performance-analysis.png)
-
 ## Overview
 
 Prairie Energy Operations Ltd. (PEO) operates production, processing, and fleet assets across Alberta and Saskatchewan. This project builds a full carbon data model from raw utility, production, and emissions-estimate data, then surfaces it as a two-page executive dashboard that tracks performance against PEO's public commitment to **reduce GHG emissions intensity by 30% over five years**.
@@ -43,6 +33,16 @@ Prairie Energy Operations Ltd. (PEO) operates production, processing, and fleet 
 ├── screenshots/                            # Dashboard page screenshots (shown above)
 └── README.md
 ```
+
+## Dashboard
+
+**Executive Summary**
+
+![Executive Summary dashboard page](screenshots/executive-summary.png)
+
+**Carbon Performance Analysis**
+
+![Carbon Performance Analysis dashboard page](screenshots/carbon-performance-analysis.png)
 
 ## Tools
 
